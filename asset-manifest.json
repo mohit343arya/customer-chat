@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/customer-chat/static/css/main.69ad3b1b.css",
-    "main.js": "/customer-chat/static/js/main.19926d41.js",
+    "main.css": "/customer-chat/static/css/main.7148f3e8.css",
+    "main.js": "/customer-chat/static/js/main.1a24ce0a.js",
     "static/media/message.svg": "/customer-chat/static/media/message.35b7a7c0bf3186f1aecb024a4b4e1302.svg",
     "static/media/attachment.svg": "/customer-chat/static/media/attachment.b230fb0833b0bef8222efaeedcf3704f.svg",
     "static/media/snooze.svg": "/customer-chat/static/media/snooze.3752c97a85823b541ac1a0f487d3145e.svg",
@@ -11,11 +11,11 @@
     "index.html": "/customer-chat/index.html",
     "static/media/emoji.svg": "/customer-chat/static/media/emoji.f95855188fb1704571f02c2dec583a27.svg",
     "static/media/archive.svg": "/customer-chat/static/media/archive.0be7a7106d678840d2df612dd3dd22d7.svg",
-    "main.69ad3b1b.css.map": "/customer-chat/static/css/main.69ad3b1b.css.map",
-    "main.19926d41.js.map": "/customer-chat/static/js/main.19926d41.js.map"
+    "main.7148f3e8.css.map": "/customer-chat/static/css/main.7148f3e8.css.map",
+    "main.1a24ce0a.js.map": "/customer-chat/static/js/main.1a24ce0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.69ad3b1b.css",
-    "static/js/main.19926d41.js"
+    "static/css/main.7148f3e8.css",
+    "static/js/main.1a24ce0a.js"
   ]
 }
